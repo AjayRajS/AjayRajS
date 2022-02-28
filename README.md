@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjayRaj S T [nIcK - STAR]
+- 👋 Hi, I’m @AjayRaj S T [nIcK name - STAR]
 - 👀 I’m interested in ...Coding ,Football ,Game Design , Web Design ,/>
 - 🌱 I’m currently learning ...React js />
 - 💞️ I’m looking to collaborate on design in three.js />
